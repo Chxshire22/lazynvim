@@ -42,6 +42,7 @@ return {
 				cmp = true,
 				gitsigns = true,
 				nvimtree = true,
+				noice = true,
 				treesitter = true,
 				notify = true,
 				mini = {
